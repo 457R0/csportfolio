@@ -2,10 +2,10 @@
 layout: default
 modal-id: 8
 title: AI Assistant
-img: img/portfolio/AIINVEST.png
+img: img/portfolio/wip.mp4
 alt: image-alt
 
-project-url: https://457r0.github.io/Investment-Template
+project-url: https://github.com/457R0/Personal-Assistant
 description: a simple AI created to replicate a "Iron Man Jarvis-like AI" that can be used for simple tasks.
 ---
 
