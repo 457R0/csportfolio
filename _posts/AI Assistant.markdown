@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 4
 title: AI Assistant
 img: img/portfolio/wip.mp4
 alt: image-alt
