@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id:7
+modal-id: 7
 title: VitalWear
 img: img/portfolio/Vitalwear.png
 alt: image-alt
