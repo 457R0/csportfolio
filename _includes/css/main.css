@@ -27,6 +27,17 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+section.success a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+section.success a:hover,
+section.success a:focus,
+section.success a:active {
+    color: #{{ site.color.secondary-dark }};
+}
+
 h1,
 h2,
 h3,
